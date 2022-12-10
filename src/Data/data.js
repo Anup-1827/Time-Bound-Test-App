@@ -1,25 +1,25 @@
 export const QuestionList = [
   {
     id: 1,
-    question: "Which type of JavaScript language is ___",
-    answer: "2",
-    name: "javaScript",
+    question: "Which of the below do not belong in the JavaScript Data Types category?",
+    answer: "3",
+    name: "datatype",
     options: [
       {
         value: "1",
-        string: "Object-Oriented"
+        string: "Number"
       },
       {
         value: "2",
-        string: "Object-Based"
+        string: "String"
       },
       {
         value: "3",
-        string: "Assembly-language"
+        string: "Float"
       },
       {
         value: "4",
-        string: "High-level"
+        string: "Undefined"
       }
     ]
   },
